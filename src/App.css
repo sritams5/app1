@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: lightgray;
+}
+.footer{
+  background-color: green;
+}
+.header{
+  background-color: yellow;
+}
+.main_text{
+  color: orange;
+}
